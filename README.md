@@ -6,10 +6,10 @@ This portfolio website project aims to showcase my skills, experience, and accom
 
 ### Key Features 🚀
 
-* **Single-page design** 📱
-* **Responsive layout** 📱💻🖥️
-* **Clean and minimalist aesthetics** 💯
-* **Interactive elements** 🎮🕹️
+* Single-page design 📱
+* Responsive layout 📱💻🖥️
+* Clean and minimalist aesthetics 💯
+* Interactive elements 🎮🕹️
 
 ### Technology Stack 💪
 
